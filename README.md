@@ -5,4 +5,8 @@ In 2024 summer, I bought a 3D printer for a robotics competition. Fascinating by
 
 The project is presented in GSDSEF March 2025, and CSEF April 2025. 
 
-The git hub documented the 3D printable part that can be installed on top of the CNC plotter based on Henry Arnold and Jonathan K. 
+3DPrintFiles folder documented the 3D printable part that can be installed on top of the CNC plotter based on Henry Arnold and Jonathan K. 
+
+BrailleToSVG-main folder shows the Braille to SVG example that we studied Zwettekop’s open source code as an example and worked out a converter for our Braille embosser. 
+
+Images folder has the Braille Embosser image. 
